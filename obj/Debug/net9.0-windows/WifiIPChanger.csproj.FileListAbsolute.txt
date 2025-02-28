@@ -1,0 +1,16 @@
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.AssemblyInfoInputs.cache
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.AssemblyInfo.cs
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.csproj.CoreCompileInputs.cache
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Debug\net9.0-windows\WifiIPChanger.exe
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Debug\net9.0-windows\WifiIPChanger.deps.json
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Debug\net9.0-windows\WifiIPChanger.runtimeconfig.json
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Debug\net9.0-windows\WifiIPChanger.dll
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Debug\net9.0-windows\WifiIPChanger.pdb
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.dll
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\refint\WifiIPChanger.dll
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.pdb
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.genruntimeconfig.cache
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\ref\WifiIPChanger.dll
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.Form1.resources
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\obj\Debug\net9.0-windows\WifiIPChanger.csproj.GenerateResource.cache

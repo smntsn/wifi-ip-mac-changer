@@ -1,0 +1,2 @@
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Release\net9.0-windows\win-x64\publish\WifiIPChanger.pdb
+C:\Users\smntsn\WifiIPChanger\WifiIPChanger\bin\Release\net9.0-windows\win-x64\publish\WifiIPChanger.exe
